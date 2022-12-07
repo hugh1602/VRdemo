@@ -4,5 +4,3 @@
 The game currently has three weapons, two player utilities, and one enemy type. Please check the PlayerControl.txt for player conrtol mapping. 
 
 
-https://user-images.githubusercontent.com/106465654/206119509-4c54b189-917e-4bdc-9497-db80074ab212.mp4
-
